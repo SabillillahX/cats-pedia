@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/icon_app_vector"
+    android:insetLeft="@dimen/splash_icon_inset"
+    android:insetTop="@dimen/splash_icon_inset"
+    android:insetRight="@dimen/splash_icon_inset"
+    android:insetBottom="@dimen/splash_icon_inset"/>

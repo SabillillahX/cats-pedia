@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Cats Pedia</string>
+    <string name="title">Babang Tamvan</string>
+    <string name="replacement_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="my_name">Sabillillah</string>
+    <string name="my_email">sabillillahxtkj@gmail.com</string>
+    <string name="about_me">About Me</string>
+
+    // String data for MainActivity
+    <string-array name="data_name">
+        <item>Persian</item>
+        <item>Maine Coon</item>
+        <item>Angora</item>
+        <item>Siam</item>
+        <item>Ragdoll</item>
+        <item>British Shorthair</item>
+        <item>Bengal</item>
+        <item>Scottish Fold</item>
+        <item>Sphynx</item>
+        <item>Munchkin</item>
+        <item>Exotic Shorthair</item>
+        <item>Abyssinian</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kucing berbulu panjang dan lebat dengan wajah bulat dan hidung pesek (flat face). Sifatnya sangat tenang, santai, dan penyayang, cocok sebagai kucing rumahan yang tidak terlalu aktif.</item>
+        <item>Sering dijuluki "raksasa lembut". Kucing ras terbesar dengan tubuh besar, bulu lebat, dan ekor panjang berumbai. Sifatnya ramah, cerdas, dan mudah bergaul, seringkali seperti anjing.</item>
+        <item>Kucing anggun dari Turki dengan tubuh langsing dan elegan, serta bulu panjang dan halus. Sifatnya aktif, suka bermain, dan sangat cerdas, seringkali menyukai air.</item>
+        <item>Ras kuno dari Thailand. Ciri khasnya adalah tubuh ramping, telinga besar, mata biru cerah, dan pola warna "pointed" (gelap di wajah, telinga, kaki, dan ekor). Kucing yang vokal, sosial, dan sangat cerdas.</item>
+        <item>Mendapat nama dari sifatnya yang lemas (seperti boneka kain) saat digendong. Memiliki bulu panjang, mata biru, dan pola warna pointed. Sangat penyayang, santai, dan suka mengikuti pemiliknya.</item>
+        <item>Kucing berbadan kekar dan padat dengan kepala bulat dan bulu pendek tebal, menyerupai teddy bear. Memiliki sifat tenang, mandiri, dan penyabar, menjadikannya hewan peliharaan yang ideal.</item>
+        <item>Hasil persilangan kucing domestik dan Kucing Macan Tutul Asia. Ciri khasnya adalah pola bulu tutul/marble yang eksotis. Kucing yang sangat aktif, energik, dan suka bermain air.</item>
+        <item>Dikenal karena fitur uniknya: telinga yang terlipat ke depan. Memiliki wajah bulat dan mata besar, memberikan kesan seperti burung hantu. Sifatnya manis, tenang, dan sangat setia pada keluarga.</item>
+        <item>Kucing unik yang hampir tidak memiliki bulu (hanya lapisan peach fuzz). Membutuhkan perawatan khusus untuk menjaga suhu tubuh dan kebersihan kulitnya. Sifatnya sangat penuh kasih sayang dan suka mencari kehangatan manusia.</item>
+        <item>Ciri khasnya adalah kaki yang sangat pendek akibat mutasi genetik. Meskipun berkaki pendek, mereka lincah dan senang bermain. Sifatnya ramah, ingin tahu, dan suka berinteraksi.</item>
+        <item>Serupa dengan Persia (wajah datar dan kepala bulat), tetapi memiliki bulu pendek dan padat. Kucing yang tenang dan santai, perawatannya lebih mudah daripada Persia karena bulu pendeknya.c</item>
+        <item>Salah satu ras tertua, dikenal dengan tubuh yang lentur dan atletis, serta pola warna ticked (setiap helai bulu memiliki beberapa pita warna). Kucing yang aktif, cerdas, dan sangat ingin tahu.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/persian</item>
+        <item>@drawable/maine_coon</item>
+        <item>@drawable/angora</item>
+        <item>@drawable/siam</item>
+        <item>@drawable/ragdoll</item>
+        <item>@drawable/british_sh</item>
+        <item>@drawable/bengal</item>
+        <item>@drawable/scottish_fold</item>
+        <item>@drawable/sphynx</item>
+        <item>@drawable/muchkin</item>
+        <item>@drawable/exotic_sh</item>
+        <item>@drawable/abyssinian</item>
+    </integer-array>
+</resources>
